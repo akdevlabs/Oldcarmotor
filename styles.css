@@ -5,20 +5,17 @@ body{
 }
 
 .oldcar-ban{
-
     background-color: black;
     height: 250px;
-    width: auto;
     color: #FFFFFF;  
     font-size: 30px;
     padding-bottom:50px ;
 }
 .logo-Oc{
-    display: block ;
-   position:relative ;
-  left:35% ;
-    right:30%;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     width: 500px;
     height: 150px; 
     padding-top:40px ;
