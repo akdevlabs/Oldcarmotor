@@ -266,6 +266,11 @@ body{
 .Respaldo{
     text-align: center;
 }
+.hash{
+    color: #4895ef;
+    font-size:30px ;
+    font: weight 800px; ;
+}
 .fill{
     Display: flex; 
     justify-content: center;
@@ -304,12 +309,16 @@ body{
 .formulario-btn:hover{
     border: 4px solid rgb(227, 11, 11); 
 }
+.Sitio{
+    font-size: 30px ;
+    font-weight: 800px;
+    text-align: center;
+}
 .akl-logo{
      display: flex;
      justify-content: center ;
      align-items: center;
      cursor: pointer; 
- 
 
 }
 
